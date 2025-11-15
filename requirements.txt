@@ -1,0 +1,7 @@
+pqcrypto
+pycryptodome
+cryptography
+matplotlib
+seaborn
+numpy
+tqdm
