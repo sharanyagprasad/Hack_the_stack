@@ -1,7 +1,3 @@
-pqcrypto
-pycryptodome
-cryptography
+pycryptodome==3.17
 matplotlib
-seaborn
-numpy
-tqdm
+kyber-py==1.0.1

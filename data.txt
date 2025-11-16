@@ -1,3 +1,0 @@
-This is a sample dataset used for the BYOK demo.
-It contains several lines of text to simulate real data.
-You can replace this file with any binary or text data to test encryption/decryption.
